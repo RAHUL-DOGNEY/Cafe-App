@@ -1,0 +1,19 @@
+Name [a-zA-Z0-9]*
+
+Email [A-Za-z0-9._%-]+@[A-Za-z0-9.%-]+\\.[a-z]{2,3}
+
+Contact ^[e0-9]{10,10}$
+
+https://github.com/RAHUL-DOGNEY/CafeManagement
+$ git init
+$ git add
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin https://github.com/RAHUL-DOGNEY/CafeManagement.git
+$ git push -u origin main
+
+
+
+git branch -M main
+git remote add origin https://github.com/RAHUL-DOGNEY/CAFE_ALL.git
+git push -u origin main
